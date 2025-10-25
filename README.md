@@ -11,3 +11,6 @@ Each feature was pair-programmed!
 
 ## Feature A
 Adds cool functionality A
+
+## Feature B
+Adds awesome functionality B
