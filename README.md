@@ -14,3 +14,6 @@ Adds cool functionality A
 
 ## Feature B
 Adds awesome functionality B
+
+## Feature C
+Adds incredible functionality C
